@@ -1,0 +1,5 @@
+<button 
+    plain="{{true}}" 
+    type="primary"
+    open-type="getUserInfo"
+    bindtap="getUserProfile">登录</button>
